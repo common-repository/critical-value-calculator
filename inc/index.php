@@ -1,0 +1,3 @@
+<?php
+
+//silance is golden
